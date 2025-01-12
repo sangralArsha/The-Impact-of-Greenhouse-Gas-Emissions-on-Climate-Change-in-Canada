@@ -1,7 +1,7 @@
 
 ### Project Overview
 
-Canada, known for its diverse ecosystems and encompassing all four seasons, has been facing the effects of climate change. Over the past few decades, temperature fluctuations have been more pronounced, disturbing ecological balances and altering weather patterns. “With four months left in 2023, the year is so far the second-hottest on record, only marginally behind 2016”[4].
+Canada, known for its diverse ecosystems and encompassing all four seasons, has been facing the effects of climate change. Over the past few decades, temperature fluctuations have been more pronounced, disturbing ecological balances and altering weather patterns. “The year 2023 is so far the second-hottest on record, only marginally behind 2016”[4].
 The following report delves into exploring the correlation between greenhouse gas emissions and the consequential impacts on Canada’s climate. The investigation closely examines the relationship between temperature fluctuations, the surge in greenhouse gas emissions, and the escalating deforestation rates within Canada. This analysis, through the use of power data analysis and visualization tools such as PowerBI, Excel, Python and Pandas, aims to shed light on the pressing issue of climate change by studying the historical provincial data trends and statistics.
 
 
